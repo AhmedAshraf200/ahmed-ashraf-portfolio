@@ -4,8 +4,6 @@ Personal portfolio website for **Ahmed Ashraf**, a Junior .NET Developer based i
 
 **Live Demo:** [your-live-link-here](#)
 
-![Portfolio Preview](img/preview.png)
-
 ## ✨ Features
 
 - **Responsive design** — fully adapts to desktop, tablet, and mobile screens

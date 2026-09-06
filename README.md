@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Ahmed Ashraf**, a Junior .NET Developer based in Cairo, Egypt. The site showcases my education, work experience, skills, and projects, with a downloadable CV and direct contact links.
 
-**Live Demo:** [[your-live-link-here](https://ahmedashraf200.github.io/ahmed-ashraf-portfolio/)](#)
+**Live Demo:** [[my-live-link-here](https://ahmedashraf200.github.io/ahmed-ashraf-portfolio/)](#)
 
 ## ✨ Features
 
